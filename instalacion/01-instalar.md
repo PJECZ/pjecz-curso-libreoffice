@@ -7,13 +7,13 @@
 En esta práctica instalará la ofimática en su computadora, para esto abra su navegador de internet de su preferencia, no importa si es Firefox, Chrome, Safari, etc.
 Diríjase a https://es.libreoffice.org/ 
  
-![seleccionar](01.1-interfaz/01descarga.png)
+![seleccionar](01-instalar/01descarga.png)
 
 De un click en el recuadro verde de descargar ahora. 
 
 ## Seleccion del sistema operativo
 
-![seleccionar](01.1-interfaz/02selOS.png)
+![seleccionar](01-instalar/02selOS.png)
 
 Normalmente, la págiana nos muestra el archivo de instalación que corresponde a nuestro sistema operativo, solo demos click en el recuadro amarillo de descargar.
 Si vamos a instalar en otra computadora, podemos escoger el archivo que corresponda ala sistema operativo 32 o 64 bits, si tiene duda, seleccione 32 bit.
