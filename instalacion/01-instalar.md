@@ -22,11 +22,11 @@ Espere a que se complete la descarga.
 
 ## Navegador de archivos
 
-Abra su navegador de archivos y 
+Abra su navegador de archivos, busque las descargas y 
 
 ![seleccionar](01-instalar/03Navegador.png)
 
-seleccione el archivo de libreOffice_7.4.2 y ejecútelo dando doble click.
+seleccione el archivo de instalación que inicia con LibreOffice (seguido de némero de versión) y ejecútelo dando doble click.
 
 
 ## Ventana de bienvenida
@@ -37,14 +37,14 @@ Solo damos click en siguiente.
 
 ## Tipo de instalación
 
-Le recomendación es dejar indicada la instalación Típica, y solo damos siguiente, puede personalizar instalando solo parte de la ofimática en la Opcion de __Personalizada__
+Le recomendación es dejar indicada la instalación __Típica__, y solo damos siguiente, puede personalizar instalando solo parte de la ofimática en la opción de __Personalizada__
 
 ![seleccionar](01-instalar/05tipica.png)
 
 ## Acceso Directo
 
 En esta pantalla nos permite crear un acceso directo a LibreOffice en el escritorio y la opción de cargar (iniciar) LibreOffice al iniciar su computadora.
-Seleccione la opcion que Usted desee.
+Seleccione la opción que Usted desee.
 
 ![seleccionar](01-instalar/06acceso.png)
 
