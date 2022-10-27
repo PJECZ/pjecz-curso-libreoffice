@@ -1,9 +1,8 @@
-# Instala LibrerOffice
+# Instala LibreOffice
 
 
-# Iniciando  la instalación de LibreOffice
+## Descarga de LibreOffice
 
-##Descarga de LibreOffice
 En esta práctica instalará la ofimática en su computadora, para esto abra su navegador de internet de su preferencia, no importa si es Firefox, Chrome, Safari, etc.
 Diríjase a https://es.libreoffice.org/ 
  
@@ -11,16 +10,18 @@ Diríjase a https://es.libreoffice.org/
 
 De un click en el recuadro verde de descargar ahora. 
 
-## Seleccion del sistema operativo
+## Selección del sistema operativo
 
 ![seleccionar](01-instalar/02selOS.png)
 
 Normalmente, la págiana nos muestra el archivo de instalación que corresponde a nuestro sistema operativo, solo demos click en el recuadro amarillo de descargar.
-Si vamos a instalar en otra computadora, podemos escoger el archivo que corresponda ala sistema operativo 32 o 64 bits, si tiene duda, seleccione 32 bit.
+
+Si vamos a instalar en otra computadora, podemos escoger el archivo que corresponda al sistema operativo 32 o 64 bits, si tiene duda, seleccione 32 bit.
 
 Espere a que se complete la descarga.
 
 ## Navegador de archivos
+
 Abra su navegadorde archivos y 
 
 ![seleccionar](01-instalar/03Navegador.png)
@@ -31,6 +32,7 @@ seleccione el archivo de libreOffice_7.4.2 y ejecútelo dando doble click.
 ## Ventana de bienvenida
 
 Solo damos click en siguiente.
+
 ![seleccionar](01-instalar/04siguiente.png)
 
 ## Tipo de instalación
@@ -46,13 +48,13 @@ Seleccione la opcion que Usted desee.
 
 ![seleccionar](01-instalar/06acceso.png)
 
-## Permiso de intalación
+## Permiso de instalación
 
 Para poder iniciar la instalación debe dar click en la pantalla de autorización.
 
 ![seleccionar](01-instalar/07aceptar_cambio.png)
 
-##Esperar y finalizar
+## Esperar y finalizar
 
 Una vez hecho lo anterior solo resta esperar a que termine de instalarse LibreOffice.
 
@@ -65,12 +67,12 @@ después de concluir la instalación, aparece el mensaje de "Se completó el asi
 solo dar entrar en teclado o click en finalizar.
 
 ## Empezar a utilizar LibreOffice
-Puede dar click en el icono generado en el escritorio, si así lo permitió durante la instalación, o bien dar click en el icono de windows, situado en el lado derecho de la barra inferior.
+
+Puede dar click en el icono generado en el escritorio, si así Usted lo permitió durante la instalación, o bien dar click en el icono de windows, situado en el lado derecho de la barra inferior.
 
 ![seleccionar](01-instalar/10logotipo.png)
 
 encontraremos LibreOffice el los programas recientes
-
 
 ![seleccionar](01-instalar/11recientes.png)
 
