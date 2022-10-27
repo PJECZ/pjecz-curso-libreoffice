@@ -14,7 +14,7 @@ De un click en el recuadro verde de descargar ahora.
 
 ![seleccionar](01-instalar/02selOS.png)
 
-Normalmente, la págiana nos muestra el archivo de instalación que corresponde a nuestro sistema operativo, solo demos click en el recuadro amarillo de descargar.
+Normalmente, la página nos muestra el archivo de instalación que corresponde a nuestro sistema operativo, solo demos click en el recuadro amarillo de descargar.
 
 Si vamos a instalar en otra computadora, podemos escoger el archivo que corresponda al sistema operativo 32 o 64 bits, si tiene duda, seleccione 32 bit.
 
@@ -22,7 +22,7 @@ Espere a que se complete la descarga.
 
 ## Navegador de archivos
 
-Abra su navegadorde archivos y 
+Abra su navegador de archivos y 
 
 ![seleccionar](01-instalar/03Navegador.png)
 
