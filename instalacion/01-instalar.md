@@ -76,7 +76,7 @@ encontraremos LibreOffice el los programas recientes
 
 o desplazándonos entre los programas o aplicaciones hasta la letra __"L"__
 
-![seleccionar](01-instalar/11libreoffice.png)
+![seleccionar](01-instalar/12libreoffice.png)
 
 y ahí encontraremos todos los programas que nos ofrece LibreOffice.
 
